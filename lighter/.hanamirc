@@ -1,0 +1,4 @@
+project=lighter
+architecture=container
+test=minitest
+template=erb
